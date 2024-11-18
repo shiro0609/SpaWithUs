@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/SpaWithUs/static/css/main.375d4e4a.css",
+    "main.js": "/SpaWithUs/static/js/main.d8d200e6.js",
+    "static/js/453.a4c2bf15.chunk.js": "/SpaWithUs/static/js/453.a4c2bf15.chunk.js",
+    "static/media/hero2.jpg": "/SpaWithUs/static/media/hero2.4fd4dfc4913f27648db3.jpg",
+    "static/media/hero1.jpg": "/SpaWithUs/static/media/hero1.4e24ec05483ec0257f47.jpg",
+    "index.html": "/SpaWithUs/index.html",
+    "main.375d4e4a.css.map": "/SpaWithUs/static/css/main.375d4e4a.css.map",
+    "main.d8d200e6.js.map": "/SpaWithUs/static/js/main.d8d200e6.js.map",
+    "453.a4c2bf15.chunk.js.map": "/SpaWithUs/static/js/453.a4c2bf15.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.375d4e4a.css",
+    "static/js/main.d8d200e6.js"
+  ]
+}
