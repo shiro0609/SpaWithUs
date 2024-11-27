@@ -12,7 +12,7 @@ import AuthPage from "./pages/Auth";
 
 function App() {
 	return (
-		<Router>
+		<Router basename="/SpaWithUs">
 			<Navbar />
 			<Routes>
 				<Route exact path="/" element={<Home />} />
